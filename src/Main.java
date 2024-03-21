@@ -5,6 +5,9 @@ import com.sun.security.jgss.GSSUtil;
 public class Main {
     public static void main(String[] args) {
 
+        System.out.println("Página de Login");
+        System.out.println("Usuario: admin");
+        System.out.println("Senha: *****");
 
         System.out.println("Pagina de cadastro");
         System.out.println("Usuario: AAAAA");
